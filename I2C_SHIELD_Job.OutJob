@@ -144,6 +144,19 @@ Configuration6_Name4=SortOrder
 Configuration6_Item4=Designator=Up|Comment=Up|Footprint=Up
 Configuration6_Name5=VisibleOrder
 Configuration6_Item5=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
+OutputType7=ExportSTEP
+OutputName7=Export STEP
+OutputCategory7=Export
+OutputDocumentPath7=
+OutputVariantName7=
+OutputEnabled7=0
+OutputEnabled7_OutputMedium1=0
+OutputEnabled7_OutputMedium2=0
+OutputEnabled7_OutputMedium3=0
+OutputEnabled7_OutputMedium4=0
+OutputDefault7=0
+Configuration7_Name1=OutputConfigurationParameter1
+Configuration7_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModelsOption=2|ExportHolesOption=0|CanSelectPrimitives=False|IncludeMechanicalPadHoles=False|IncludeElectricalPadHoles=False|IncludeFreePadHoles=False|ExportFoldedBoard=True|ExportFoldedBoardRate=100|ComponentSuffixType=0|ComponentSuffix= |ExportCopperOption=0|ExportCopperLayer=0|ExportPadAndViaBarrelsOnly=False|IgnoreBoardCopperLayerColors=False|ExportAsSinglePart=False|IncludeCoverLayer=True|SkipFreeBodies=False|SkipHidden=False|DocumentPath=C:\Users\mertc\Desktop\Dosyalar\Altium_project\I2C_Shield\I2C_Shield.PcbDoc
 
 [PublishSettings]
 OutputFilePath2=C:\Users\mertc\Desktop\Dosyalar\Altium_project\I2C_Shield\.\
