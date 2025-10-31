@@ -57,6 +57,7 @@ Kart, temel I²C çevre birimleriyle (**OLED ekran, ADXL345, LTC2990**) test ve 
    ┣ 📜 Status Report.txt
    ┗ 📂 Gerber / NC Drill / STEP dosyaları
 
+```
 
 
 
