@@ -31,6 +31,9 @@ Kart, temel I²C çevre birimleriyle (**OLED ekran, ADXL345, LTC2990**) test ve 
 - **Display Block:** 128×64 OLED ekran (I²C)  
 - **Connectors:** Arduino / Nucleo pin header dizilimi  
 
+## 🗂️ Proje Yapısı  
+
+```text
 📂 I2C_Shield
  ┣ 📜 I2C_Shield.PrjPcb
  ┣ 📜 I2C_Shield.SchDoc
@@ -53,6 +56,9 @@ Kart, temel I²C çevre birimleriyle (**OLED ekran, ADXL345, LTC2990**) test ve 
    ┣ 📜 Design Rule Check - I2C_Shield.html
    ┣ 📜 Status Report.txt
    ┗ 📂 Gerber / NC Drill / STEP dosyaları
+
+
+
 
 | Görsel                                            | Açıklama         |
 | ------------------------------------------------- | ---------------- |
